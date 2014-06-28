@@ -1,0 +1,15 @@
+.middleText{
+	font-size: 1.17em;
+	font-weight: bold;
+	line-height: 1.3em;
+}
+
+.smallText{
+	font-size: 0.8em;
+	font-weight: normal;
+	line-height: 1.3em;
+}
+
+img{
+	width: 100%;
+}
